@@ -1,0 +1,374 @@
+.site_header{
+    width: 100%; 
+    padding-bottom: 18px;
+    position: fixed; 
+    top: 0;
+    background: #007765;
+}                       
+.logo{
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+.main_container {
+    max-width: 1219px;
+    margin: 0px auto;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+
+.menu_link1{   
+    position: absolute;
+    left: 741px;
+    top: 28px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.menu_link1:hover{
+    color: #000000;
+}
+.menu_link2:hover{
+    color: #000000;
+}
+.menu_link3:hover{
+    color: #000000;
+}
+.menu_link2{
+    position: absolute;
+    left: 893px;
+    top: 29px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.menu_link3{
+    position: absolute;
+    left: 1070px;
+    top: 29px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.span{
+    position: absolute;
+    left: 878px;
+    top: 28px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.span2{
+    position: absolute;
+    left: 1055px;
+    top: 29px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.main_tittle{
+    font-family: roboto;
+    font-style:normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 84px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+.selection1{
+    background: url('img/image.png');
+    background-position: center;
+    background-size: cover;
+ 
+    margin-top: 84px;
+    padding-top: 160px;
+    padding-bottom: 160px;
+
+    width: 100%;
+
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+
+}
+.section2{
+    padding-bottom: 92px;
+    left: 0px;
+    top: 487px;
+    
+    background: #EEEEEE;
+
+    width: 100%;
+
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 55px;
+}
+.section2 h1{    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;  
+    text-align: center;
+
+    color: #007765;   
+    top: 48px;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.text1{    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38px;
+    
+    margin: auto;
+
+    color: #000000;
+}
+.span1{
+    font-weight: 700;
+}
+.container{
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+
+    text-align: center;
+    
+    color: #FFFFFF;
+
+}
+.selection3{ 
+    background-image: url('img/image\ \(1\).png');
+    background-position: center;
+    background-size:cover;
+
+    padding-top: 128px;
+    padding-bottom: 127px;
+
+    width: 100%;
+
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+.selection4{
+    background-image: url('img/PPC\ Logo.png');
+    background-size: 115px;
+    background-repeat: no-repeat;
+    background-position: 55px  160px;
+
+    width: 100%;
+   
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+
+}
+h2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 100%;
+        
+    text-align: center;
+    
+    color: #007765;
+
+    padding-top: 48px;
+}
+.text2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 38px;
+    
+    color: #000000;
+
+    padding-left: 163px;
+
+    width: 100%;
+    
+    left: 218px;
+    top: 1828px;
+
+}
+span{
+    font-style: italic;
+}
+.text3{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 38px;
+    
+    color: #000000;
+}
+h3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    
+    padding-top: 48px;
+    text-align: center;
+    
+    color: #007765;
+
+}
+.selection5{
+    width: 1219px;
+    left: 0px;
+    top: 2293px;
+   
+    width: 100%;
+
+    background: #EEEEEE;
+
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-bottom: 122px;
+}
+div { box-sizing: border-box; }
+.members {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+.member1, .member2, .member3{
+    margin: 10px;
+    padding: 0px 10px 20px 10px;
+    width: calc(33% - 24px);
+    display: inline-block;
+}
+.member4, .member5, .member6{
+    margin: 10px;
+    padding: 20px 10px;
+    width: calc(33% - 24px);
+    display: inline-block;
+}
+.photo{
+    width: 168px;
+    height: 168px;
+}
+.name{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+
+    text-align: center;
+    
+    color: #007765;
+}
+.work{
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    text-align: center;
+    
+    color: #000000;
+}
+.section6{
+    max-height: 176px;
+    
+    background: #333333;
+
+    width: 100%;
+
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 48px;
+    padding-bottom: 64px;
+}
+.footer{
+    width: 540px;
+    height: 64px;
+        
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #FFFFFF;
+
+    padding-left: 340px;
+}
+#anchor1, #anchor2, #anchor3 {
+    position: absolute; 
+    margin-top: -82px;
+}
+
+
